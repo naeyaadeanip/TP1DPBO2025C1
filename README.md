@@ -20,10 +20,10 @@ Menggunakan satu class bernama petshop yang terdiri dari beberapa atribut sepert
 
 # Alur Program
 1. Setelah di-run user bisa memilih salah satu dari 6 command berikut:
-   ~ tampilkan data -> Menampilkan data data yang terbaru
-   ~ tambah data -> Menambahkan data baru. Dengan format input seperti {ID} {Nama Produk}
+   ~ 1 -> Menampilkan data data yang terbaru
+   ~ 2 -> Menambahkan data baru. Dengan format input seperti {ID} {Nama Produk}
      {Kategori Produk} {Harga Produk}
-   ~ hapus data -> Menghapus data berdasarkan Nama Produk
-   ~ ubah data -> Mengubah data berdasarkan Nama Produk, lalu memasukkan ulang dengan format         yang sama seperti perintah tambah data
-   ~ cari data -> Mencari data berdasarkan Nama Produk
-   ~ exit -> Menghentikan program
+   ~ 3 -> Menghapus data berdasarkan Nama Produk
+   ~ 4 -> Mengubah data berdasarkan Nama Produk, lalu memasukkan ulang dengan format yang sama seperti perintah 1
+   ~ 5 -> Mencari data berdasarkan Nama Produk
+   ~ 6 -> Menghentikan program
